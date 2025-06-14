@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.AssemblyInfo.cs
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.sourcelink.json
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\bin\Debug\net9.0\been.exe
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\bin\Debug\net9.0\been.deps.json
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\bin\Debug\net9.0\been.runtimeconfig.json
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\bin\Debug\net9.0\been.dll
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\bin\Debug\net9.0\been.pdb
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.dll
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\refint\been.dll
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.pdb
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\been.genruntimeconfig.cache
+C:\Users\PC\source\repos\NewRepo\PlatformerGame01\been\obj\Debug\net9.0\ref\been.dll
